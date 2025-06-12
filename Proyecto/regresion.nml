@@ -1,0 +1,5 @@
+x = [1, 2, 3, 4, 5]
+y = [2, 4, 5, 4, 5]
+modelo = regresion_lineal(x, y)
+imprimir(modelo)
+graficar(x, y)
